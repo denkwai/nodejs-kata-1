@@ -114,6 +114,8 @@ You have to implement an abstracted and simple library system.
 npm run start
 ```
 
+After this the project is accessible on [http://localhost:9000/](http://localhost:9000/)
+
 ##### How to run your tests?
 
 ```bash

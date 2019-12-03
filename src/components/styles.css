@@ -1,0 +1,19 @@
+.app-table {
+    width: 80%;
+    margin: 0 auto;
+    font-size: 14px;
+    border-collapse: collapse;
+}
+
+.app-table__filter {
+    display: inline-block;
+    margin: 10px;
+}
+
+.app-table__cell {
+    padding: 10px;
+}
+
+.app-table__row:nth-child(2n) .app-table__cell {
+    background: #ddd;;
+}
